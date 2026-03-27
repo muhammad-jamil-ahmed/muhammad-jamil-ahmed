@@ -1,141 +1,92 @@
+# Hi, I'm Jamil 👋
 
-<div align="center">
-    <img src="https://github.com/muhammad-jamil-ahmed/Muhammad-Jamil/blob/main/1-github%20(2).jpg" alt="I am GitHub Readme Generator's creator" width="90%" />
-</div>
+### AI Engineer | AI Agents | RAG Systems | Voice AI | Fullstack JavaScript Developer
 
-<h2 align="center">Hi 👋, I'm Jamil Ahmad</h2>
-
-<h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gfgf" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; background-color: #0a66c2; padding: 6px; border-radius: 6px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" style="vertical-align: middle;" />
-    </span>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;AI+Agents+Developer;RAG+Systems+Specialist;Voice+AI+Developer;Fullstack+JavaScript+Developer&font=Fira%20Code&center=false&width=500&height=45">
 </p>
 
-### 💻 About Me
+---
 
-I'm a Senior JavaScript Developer with a passion for crafting high-performance web applications and a deep expertise in JavaScript frameworks.
+## 💻 About Me
 
-- 🚀 **Senior JavaScript Developer**: Focused on scalable web solutions.
-- 🔍 **Tech Enthusiast**: Mastering frontend and backend technologies.
-- 🌐 **Open Source Contributor**: Sharing knowledge through talks and code.
-- 📚 **Lifelong Learner**: Passionate about continuous learning.
+I'm an AI Engineer with a strong background as a Senior JavaScript Developer, passionate about building intelligent systems and scalable applications. I specialize in AI agents, RAG systems, voice assistants, and automation, backed by deep expertise in modern web technologies.
 
+🚀 AI Engineer & Agents Developer: Focused on building scalable AI systems and real-world automation solutions.  
+🧠 RAG & Voice AI Specialist: Creating knowledge-driven assistants and voice-enabled experiences.  
+🔍 Tech Enthusiast: Blending AI with fullstack development to build end-to-end solutions.  
+🌐 Fullstack Background: Experienced in modern JavaScript frameworks and cloud-based architectures.  
+📚 Lifelong Learner: Constantly exploring advancements in AI, LLMs, and emerging technologies.  
 
+---
 
-<h3 align="left">Languages and Frameworks:</h3>
+## 🚀 What I Build
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <br>Tailwind CSS
-</td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="30" height="30"/>
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/>
-      </a>
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-      </a>
-      <br>Node.js
-    </td>
-<td align="center" width="96">
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo" width="40" height="40"/>
-  </a>
-  <br>ExpressJS
-</td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
-      </a>
-      <br>AWS
-    </td>
-  </tr>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Agents-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-Systems-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Voice-AI-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Automation-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Chatbots-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Fullstack-Apps-black?style=for-the-badge">
+</p>
+
+---
+
+## 🧠 Technologies
+
+### 🤖 AI Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch" />
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-black?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-black?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-black?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-black?style=for-the-badge)
+
+LLM & Model Integrations
+<p> <img src="https://img.shields.io/badge/OpenAI-GPT4-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChatGPT-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google-Gemini-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cohere-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/DALLE-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Midjourney-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stable-Diffusion-black?style=for-the-badge" /> </p>
+
+### ⚙️ Automation & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-5F8FFF?style=for-the-badge&logo=integromat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🌐 Fullstack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,html,css" />
+</p>
+
+🔌 APIs & System Integration
+<p> <img src="https://img.shields.io/badge/REST-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOAP-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Webhooks-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/CRM-Integrations-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/SaaS-Integrations-black?style=for-the-badge" /> </p>
+
+---
+
+## 📊 GitHub Stats
+
 </table>
 
-
-<h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3>
 <div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   
   <!-- GitHub Stats Table with 2 Rows -->
@@ -160,45 +111,11 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
   
   </table>
 
-</div>
+## 📫 Connect With Me
 
+<p>
+  <a href="https://www.upwork.com/freelancers/~019e348771b3bf06ae"><img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork"></a>
+  <a href="mailto:iamjamilahmed38@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## Discover My Latest Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/muhammad-jamil-ahmed/d3-visualization" style="color:blue;">d3-visualization</a></strong><br>
-      Data visualization using D3.js<br><br>
-      ⭐ 50 | 🍴 7<br>
-      <span style="color:black;">JavaScript</span>
-    </td>
-    <td width="50%">
-      <strong><a href="https://github.com/muhammad-jamil-ahmed/expense-track-app" style="color:blue;">expense-track-app</a></strong><br>
-      Track expenses with real-time stats<br><br>
-      ⭐ 45 | 🍴 10<br>
-      <span style="color:black;">JavaScript</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong><a href="https://github.com/muhammad-jamil-ahmed/food-delivery-react-node" style="color:blue;">food-delivery-react-node</a></strong><br>
-      Food delivery platform built with React & Node<br><br>
-      ⭐ 65 | 🍴 12<br>
-      <span style="color:black;">JavaScript</span>
-    </td>
-    <td width="50%">
-      <strong><a href="https://github.com/muhammad-jamil-ahmed/interactive-maps" style="color:blue;">interactive-maps</a></strong><br>
-      Interactive maps for geographical data visualization<br><br>
-      ⭐ 38 | 🍴 5<br>
-      <span style="color:black;">HTML</span>
-    </td>
-  </tr>
-</table>
-
-
