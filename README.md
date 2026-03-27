@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/muhammad-jamil-ahmed/muhammad-jamil-ahmed/blob/main/AI%20Developer.png?raw=true" alt="GitHub Banner" width="200%" />
+</p>
+
 # Hi, I'm Jamil 👋
 
 ### AI Engineer | AI Agents | RAG Systems | Voice AI | Fullstack JavaScript Developer
