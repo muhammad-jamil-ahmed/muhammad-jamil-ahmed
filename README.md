@@ -4,7 +4,7 @@
 
 # Hi, I'm Jamil 👋
 
-### AI Engineer | AI Agents | RAG Systems | Voice AI | Fullstack JavaScript Developer
+### AI Engineer | AI Agents | RAG Systems | Voice AI | Fullstack Developer (Python/React.js)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;AI+Agents+Developer;RAG+Systems+Specialist;Voice+AI+Developer;Fullstack+JavaScript+Developer&font=Fira%20Code&center=false&width=500&height=45">
@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 
-I'm an AI Engineer with a strong background as a Senior JavaScript Developer, passionate about building intelligent systems and scalable applications. I specialize in AI agents, RAG systems, voice assistants, and automation, backed by deep expertise in modern web technologies.
+I'm an AI Engineer with a strong background as a Fullstack Developer, passionate about building intelligent systems and scalable applications. I specialize in AI agents, RAG systems, voice assistants, and automation, backed by deep expertise in modern web technologies.
 
 🚀 AI Engineer & Agents Developer: Focused on building scalable AI systems and real-world automation solutions.  
 🧠 RAG & Voice AI Specialist: Creating knowledge-driven assistants and voice-enabled experiences.  
@@ -48,12 +48,7 @@ I'm an AI Engineer with a strong background as a Senior JavaScript Developer, pa
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
-![AutoGen](https://img.shields.io/badge/AutoGen-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper-black?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
@@ -62,14 +57,13 @@ I'm an AI Engineer with a strong background as a Senior JavaScript Developer, pa
 ![Chroma](https://img.shields.io/badge/Chroma-black?style=for-the-badge)
 
 LLM & Model Integrations
-<p> <img src="https://img.shields.io/badge/OpenAI-GPT4-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/ChatGPT-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google-Gemini-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cohere-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/DALLE-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Midjourney-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stable-Diffusion-black?style=for-the-badge" /> </p>
+<p> <img src="https://img.shields.io/badge/OpenAI-ChatGPT-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google-Gemini-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cohere-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/DALLE-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Midjourney-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stable-Diffusion-black?style=for-the-badge" /> </p>
 
 ### ⚙️ Automation & Tools
 
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-5F8FFF?style=for-the-badge&logo=integromat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-5F8FFF?style=for-the-badge&logo=integromat&logoColor=white" />
   <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -79,11 +73,8 @@ LLM & Model Integrations
 
 ### 🌐 Fullstack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,fastapi,mongodb,postgres,mysql,tailwind,bootstrap,html,css" />
 </p>
-
-🔌 APIs & System Integration
-<p> <img src="https://img.shields.io/badge/REST-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOAP-API-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Webhooks-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/CRM-Integrations-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/SaaS-Integrations-black?style=for-the-badge" /> </p>
 
 ---
 
