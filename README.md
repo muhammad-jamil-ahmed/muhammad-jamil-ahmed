@@ -12,15 +12,15 @@
 
 ---
 
-## :computer: About Me
+## 💻 About Me
 
 I'm an AI Engineer with a strong background as a Fullstack Developer, passionate about building intelligent systems and scalable applications. I specialize in AI agents, RAG systems, voice assistants, and automation, backed by deep expertise in modern web technologies.
 
-:rocket: AI Engineer & Agents Developer: Focused on building scalable AI systems and real-world automation solutions.
-:brain: RAG & Voice AI Specialist: Creating knowledge-driven assistants and voice-enabled experiences.
-:mag: Tech Enthusiast: Blending AI with fullstack development to build end-to-end solutions.
-:globe_with_meridians: Fullstack Background: Experienced in modern JavaScript frameworks and cloud-based architectures.
-:books: Lifelong Learner: Constantly exploring advancements in AI, LLMs, and emerging technologies.
+- 🚀 **AI Engineer & Agents Developer:** Focused on building scalable AI systems and real-world automation solutions.
+- 🧠 **RAG & Voice AI Specialist:** Creating knowledge-driven assistants and voice-enabled experiences.
+- 🔍 **Tech Enthusiast:** Blending AI with fullstack development to build end-to-end solutions.
+- 🌐 **Fullstack Background:** Experienced in modern JavaScript frameworks and cloud-based architectures.
+- 📚 **Lifelong Learner:** Constantly exploring advancements in AI, LLMs, and emerging technologies.
 
 ---
 
@@ -41,7 +41,7 @@ I'm an AI Engineer with a strong background as a Fullstack Developer, passionate
 
 ## :hammer_and_wrench: Tech Stack & Skills
 
-### :robot_face: AI Frameworks & LLM Models
+### 🤖 AI Frameworks & LLM Models
 
 <table>
   <tr>
@@ -193,33 +193,19 @@ I'm an AI Engineer with a strong background as a Fullstack Developer, passionate
 
 ---
 
-## :bar_chart: GitHub Stats
 
-</table>
+## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" width="100%"/>
+</p>
 
-  <!-- GitHub Stats Table with 2 Rows -->
-  <table style="width: 100%;">
-    <!-- Row 1: GitHub Streak Stats and Top Languages -->
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/>
-      </td>
-    </tr>
-    <!-- Row 2: GitHub Activity Overview -->
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <a href="https://github.com/xyz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" alt="Jamil's GitHub Activity" style="border-radius: 10px; width: 400px;"/>
-        </a>
-      </td>
-    </tr>
-
-  </table>
+---
 
 ## :mailbox: Connect With Me
 
