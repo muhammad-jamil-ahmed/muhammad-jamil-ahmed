@@ -2,7 +2,7 @@
   <img src="https://github.com/muhammad-jamil-ahmed/muhammad-jamil-ahmed/blob/main/AI%20Developer.png?raw=true" alt="GitHub Banner" width="200%" />
 </p>
 
-# Hi, I'm Jamil 👋
+# Hi, I'm Jamil :wave:
 
 ### AI Engineer | AI Agents | RAG Systems | Voice AI | Fullstack Developer (Python/React.js)
 
@@ -12,19 +12,19 @@
 
 ---
 
-## 💻 About Me
+## :computer: About Me
 
 I'm an AI Engineer with a strong background as a Fullstack Developer, passionate about building intelligent systems and scalable applications. I specialize in AI agents, RAG systems, voice assistants, and automation, backed by deep expertise in modern web technologies.
 
-🚀 AI Engineer & Agents Developer: Focused on building scalable AI systems and real-world automation solutions.  
-🧠 RAG & Voice AI Specialist: Creating knowledge-driven assistants and voice-enabled experiences.  
-🔍 Tech Enthusiast: Blending AI with fullstack development to build end-to-end solutions.  
-🌐 Fullstack Background: Experienced in modern JavaScript frameworks and cloud-based architectures.  
-📚 Lifelong Learner: Constantly exploring advancements in AI, LLMs, and emerging technologies.  
+:rocket: AI Engineer & Agents Developer: Focused on building scalable AI systems and real-world automation solutions.
+:brain: RAG & Voice AI Specialist: Creating knowledge-driven assistants and voice-enabled experiences.
+:mag: Tech Enthusiast: Blending AI with fullstack development to build end-to-end solutions.
+:globe_with_meridians: Fullstack Background: Experienced in modern JavaScript frameworks and cloud-based architectures.
+:books: Lifelong Learner: Constantly exploring advancements in AI, LLMs, and emerging technologies.
 
 ---
 
-## 🚀 What I Build
+## :rocket: What I Build
 
 </p>
 
@@ -39,51 +39,166 @@ I'm an AI Engineer with a strong background as a Fullstack Developer, passionate
 
 ---
 
-## 🧠 Technologies
+## :hammer_and_wrench: Tech Stack & Skills
 
-### 🤖 AI Frameworks
+### :robot_face: AI Frameworks & LLM Models
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/langchain" width="48"/><br>
+      <sub><b>LangChain</b></sub>
+    </td>
+      <td align="center" width="100">
+      <img src="https://github.com/langchain-ai.png?size=48" width="48"/><br>
+      <sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/huggingface" width="48"/><br>
+      <sub><b>Hugging Face</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/crewAIInc.png?size=48" width="48"/><br>
+      <sub><b>CrewAI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/openai.png?size=48" width="48"/><br>
+      <sub><b>OpenAI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/anthropics.png?size=48" width="48"/><br>
+      <sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/google-gemini.png?size=48" width="48"/><br>
+      <sub><b>Gemini</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/meta-llama.png?size=48" width="48"/><br>
+      <sub><b>LLaMA</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### :file_cabinet: Vector DBs, RAG & Knowledge Systems
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github.com/pinecone-io.png?size=48" width="48"/><br>
+      <sub><b>Pinecone</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/weaviate.png?size=48" width="48"/><br>
+      <sub><b>Weaviate</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/milvus-io.png?size=48" width="48"/><br>
+      <sub><b>Milvus</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/chroma-core.png?size=48" width="48"/><br>
+      <sub><b>Chroma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/facebookresearch.png?size=48" width="48"/><br>
+      <sub><b>FAISS</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### :gear: Automation Platforms & CRMs
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github.com/n8n-io.png?size=48" width="48"/><br>
+      <sub><b>n8n</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/zapier.png?size=48" width="48"/><br>
+      <sub><b>Zapier</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/integromat.png?size=48" width="48"/><br>
+      <sub><b>Make</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/GoHighLevel.png?size=48" width="48"/><br>
+      <sub><b>GoHighLevel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/HubSpot.png?size=48" width="48"/><br>
+      <sub><b>HubSpot</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/zoho.png?size=48" width="48"/><br>
+      <sub><b>Zoho CRM</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/pipedrive.png?size=48" width="48"/><br>
+      <sub><b>Pipedrive</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### :studio_microphone: Conversational & Voice AI
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github.com/openai.png?size=48" width="48"/><br>
+      <sub><b>Whisper API</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/twilio.png?size=48" width="48"/><br>
+      <sub><b>Twilio</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/VapiAI.png?size=48" width="48"/><br>
+      <sub><b>VAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/voiceflow.png?size=48" width="48"/><br>
+      <sub><b>Voiceflow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/elevenlabs-io.png?size=48" width="48"/><br>
+      <sub><b>ElevenLabs</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/Bland-AI.png?size=48" width="48"/><br>
+      <sub><b>Bland AI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/RetellAI.png?size=48" width="48"/><br>
+      <sub><b>Retell AI</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### :computer: Fullstack Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch" />
-</p>
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-black?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-black?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-black?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-black?style=for-the-badge)
-
-LLM & Model Integrations
-<p> <img src="https://img.shields.io/badge/OpenAI-ChatGPT-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Google-Gemini-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cohere-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/DALLE-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Midjourney-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Stable-Diffusion-black?style=for-the-badge" /> </p>
-
-### ⚙️ Automation & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-5F8FFF?style=for-the-badge&logo=integromat&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🌐 Fullstack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,fastapi,mongodb,postgres,mysql,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,py,fastapi,mongodb,postgres,mysql,tailwind,bootstrap,html,css" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## :bar_chart: GitHub Stats
 
 </table>
 
 <div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  
+
   <!-- GitHub Stats Table with 2 Rows -->
   <table style="width: 100%;">
     <!-- Row 1: GitHub Streak Stats and Top Languages -->
@@ -103,10 +218,10 @@ LLM & Model Integrations
         </a>
       </td>
     </tr>
-  
+
   </table>
 
-## 📫 Connect With Me
+## :mailbox: Connect With Me
 
 <p>
   <a href="https://www.upwork.com/freelancers/~019e348771b3bf06ae"><img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork"></a>
